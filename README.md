@@ -25,4 +25,4 @@ cd exercises
 cat 01_navigation_basics.md
 ```
 
-Happy learning!
+Happy learning!!
