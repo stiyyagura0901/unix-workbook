@@ -1,0 +1,20 @@
+ [2023-05-15 08:23:45] INFO: User alice logged in from 192.168.1.5
+[2023-05-15 08:25:12] ERROR: Database connection failed
+[2023-05-15 08:25:30] INFO: User bob logged in from 10.0.0.2
+[2023-05-15 08:26:45] WARNING: High CPU usage detected (85%)
+[2023-05-15 08:30:15] INFO: Backup process started
+[2023-05-15 08:35:23] ERROR: Disk space low on /dev/sda1
+[2023-05-15 08:40:02] INFO: New user charlie registered
+[2023-05-15 08:42:18] INFO: User dave logged in from 172.16.0.10
+[2023-05-15 08:45:55] WARNING: Memory usage above threshold (75%)
+[2023-05-15 08:50:31] ERROR: Service httpd failed to restart
+[2023-05-15 08:52:14] INFO: Configuration file updated
+[2023-05-15 08:55:00] INFO: Scheduled maintenance started
+[2023-05-15 09:00:10] INFO: User alice logged out
+[2023-05-15 09:05:22] ERROR: Failed to connect to remote API
+[2023-05-15 09:10:45] INFO: Cache cleared successfully
+[2023-05-15 09:15:33] WARNING: Network latency increasing (150ms)
+[2023-05-15 09:20:01] INFO: User bob logged out
+[2023-05-15 09:25:19] INFO: Database backup completed
+[2023-05-15 09:30:45] ERROR: Permission denied for file /etc/config.ini
+[2023-05-15 09:35:10] INFO: System update available
